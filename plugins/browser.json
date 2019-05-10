@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "example.gabrielcardoso.cenourapp"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "example.gabrielcardoso.cenourapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "example.gabrielcardoso.cenourapp"
+    }
+  },
+  "dependent_plugins": {}
+}

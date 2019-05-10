@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Garçonete Só de Cenoura",
+  "short_name": "Garçonete Só de Cenoura",
+  "version": "example.gabrielcardoso.cenourapp",
+  "description": "App de uso das garçonetes do restaurante Só de Cenoura",
+  "author": "Gabriel Cardoso",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
